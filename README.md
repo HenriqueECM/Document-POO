@@ -16,5 +16,9 @@ Por meio deste material, busco consolidar conhecimentos que possibilitem a const
 
 ---
 
-### 📦 O que é Objeto?
+### 📦 O que são Objetos?
 É uma instância da classe, supormos que quando está criando um objeto, está criando um "exemplar" daquela classe com seus próprios valores para atributos e capacidade de executar os métodos definidos na classe.
+
+---
+
+### 🏫 O que são Classes?
