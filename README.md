@@ -12,4 +12,9 @@ Por meio deste material, busco consolidar conhecimentos que possibilitem a const
 --- 
 
 ### ❓ O que é Programação Orientada a Objeto?
-É um paradigma (padrões) de programação que organiza o código em torno de objetos
+É um paradigma (padrões) de programação que organiza o código em torno de objetos, que são entidades que combinam dados (atributos) e ações (métodos).
+
+---
+
+### 📦 O que é Objeto?
+É uma instância da classe, supormos que quando está criando um objeto, está criando um "exemplar" daquela classe com seus próprios valores para atributos e capacidade de executar os métodos definidos na classe.
