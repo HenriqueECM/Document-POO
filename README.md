@@ -58,10 +58,41 @@ A Programação Orientada a Objetos se apoia em **quatro pilares fundamentais**,
 
 ---
 
-#### 🔒 Encapsulamento  
-Consiste em **ocultar os detalhes internos** de um objeto e expor apenas o necessário.  
-Os dados são protegidos por modificadores de acesso (`private`, `public`, etc.), e manipulados por **métodos acessores (getters e setters)**.  
-➡️ Isso garante maior segurança, controle e organização no código.
+### 🔒 Encapsulamento
+
+O **encapsulamento** é um dos pilares da Programação Orientada a Objetos.  
+Ele consiste em **ocultar os detalhes internos** de um objeto e expor apenas o necessário para seu uso externo.
+
+Os dados são protegidos por **modificadores de acesso** (`private`, `public`, etc.) e manipulados por **métodos acessores** (`get` e `set`), garantindo:
+
+- ✅ Segurança dos dados  
+- ✅ Controle sobre as alterações  
+- ✅ Organização e clareza no código  
+
+---
+
+## 🧰 Métodos Get e Set
+
+Os métodos `get` e `set` são utilizados para **acessar e modificar atributos privados** de uma classe.  
+Dessa forma, os atributos não são alterados diretamente, mas sim através de métodos controlados.
+
+### Exemplo:
+```java
+public class Pessoa {
+    private String nome;
+
+    // Método GET: retorna o valor do atributo
+    public String getNome() {
+        return nome;
+    }
+
+    // Método SET: altera o valor do atributo com validação
+    public void setNome(String novoNome) {
+        if (novoNome != null && !novoNome.isEmpty()) {
+            this.nome = novoNome;
+        }
+    }
+}
 
 ---
 
