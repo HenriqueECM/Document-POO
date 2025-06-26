@@ -78,19 +78,17 @@ Dessa forma, os atributos não são alterados diretamente, mas sim através de m
 
 #### Exemplo:
 ```java
-public class Pessoa {
-    private String nome;
+public class Carro {
+    private String marca;
 
     // Método GET: retorna o valor do atributo
-    public String getNome() {
+    public String getMarca() {
         return nome;
     }
 
     // Método SET: altera o valor do atributo com validação
-    public void setNome(String novoNome) {
-        if (novoNome != null && !novoNome.isEmpty()) {
-            this.nome = novoNome;
-        }
+    public void setMarca(String marca) {
+        this.marca = marca;
     }
 }
 ```
