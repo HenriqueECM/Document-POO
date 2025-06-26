@@ -1,5 +1,20 @@
 # 🧱 Programação Orientada a Objetos
 
+## 📚 Sumário
+- [📖 Introdução](#-introdução)
+- [❓ O que é Programação Orientada a Objetos?](#-o-que-é-programação-orientada-a-objetos)
+- [📦 O que são Objetos?](#-o-que-são-objetos)
+- [🏫 O que são Classes?](#-o-que-são-classes)
+- [🧩 Os 4 Pilares da Programação Orientada a Objetos](#-os-4-pilares-da-programação-orientada-a-objetos)
+  - [🔒 Encapsulamento](#-encapsulamento)
+  - [🧬 Herança](#-herança)
+  - [🎭 Polimorfismo](#-polimorfismo)
+  - [🧱 Abstração](#-abstração)
+- [🏗️ Construtores](#️-construtores)
+- [🔄 Sobrecarga (Overloading)](#-sobrecarga-overloading)
+- [🔁 Sobrescrita (Overriding)](#-sobrescrita-overriding)
+- [📌 Comparativo Rápido](#-comparativo-rápido)
+
 ---
 
 ### 📖 Introdução
