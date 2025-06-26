@@ -47,6 +47,11 @@ Ela serve como uma **base para criar objetos**, determinando quais informações
 
 ---
 
+### ⚙️ O que são Métodos?
+São funções definidas dentro de uma classe, onde descrevem ações que um objeto dessa classe pode realizar.
+
+---
+
 ### 🧩 Os 4 Pilares da Programação Orientada a Objetos
 
 A Programação Orientada a Objetos se apoia em **quatro pilares fundamentais**, que são os responsáveis por tornar esse paradigma tão poderoso e versátil:
