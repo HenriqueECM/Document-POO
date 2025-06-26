@@ -61,7 +61,7 @@ Os dados são protegidos por modificadores de acesso (`private`, `public`, etc.)
 ---
 
 #### 🧬 Herança  
-Permite que uma **classe herde atributos e métodos** de outra classe, promovendo **reutilização de código** e facilitando a **especialização de comportamentos**.  
+Permite que uma **classe herde atributos e métodos** de outra classe, promovendo **reutilização de código** e facilitando a **especialização de comportamentos** (métodos).  
 ➡️ A classe herdada é chamada de **superclasse**, e a que herda é chamada de **subclasse**.
 
 ---
